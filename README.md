@@ -1,4 +1,5 @@
 # IDS Manager
+## Setup environment
     $ # Get the code
     $ git clone https://github.com/creativetimofficial/material-dashboard-django.git
     $ cd material-dashboard-django
@@ -25,5 +26,5 @@
     $ # python manage.py runserver 0.0.0.0:<your_port>
     $
     $ # Access the web app in browser: http://127.0.0.1:8000/
-<p>How to run server</p>
+## How to run server
     python manage.py runserver 0.0.0.0:8000
